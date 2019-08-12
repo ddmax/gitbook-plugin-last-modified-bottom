@@ -1,0 +1,22 @@
+{
+  "name": "gitbook-plugin-last-modified-bottom",
+  "version": "1.0.0",
+  "description": "GitBook plugin that adds the \"last modified\" info under the bottom of every page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddmax/gitbook-plugin-last-modified-bottom.git"
+  },
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "author": "ddmax",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ddmax/gitbook-plugin-last-modified-bottom/issues"
+  },
+  "homepage": "https://github.com/ddmax/gitbook-plugin-last-modified-bottom#readme"
+}
